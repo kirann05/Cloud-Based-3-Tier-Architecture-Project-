@@ -38,4 +38,4 @@ This project demonstrates a scalable **cloud-based 3-tier architecture**, levera
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/cloud-based-3tier-architecture.git
+   git clone https://github.com/kirann05/cloud-based-3tier-architecture.git
